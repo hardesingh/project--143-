@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../my first epic"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mr. Ping Pong 🏓"
+	}
+}
